@@ -17,13 +17,13 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 akbarvpn="raw.githubusercontent.com/lucky20s/Mantap/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
-akbarvpnn="raw.githubusercontent.com/lucky20s/Mantap/main/xray"
+#akbarvpnn="raw.githubusercontent.com/lucky20s/Mantap/main/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-akbarvpnnn="raw.githubusercontent.com/lucky20s/Mantap/main/trojango"
+#akbarvpnnn="raw.githubusercontent.com/lucky20s/Mantap/main/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
-akbarvpnnnn="raw.githubusercontent.com/lucky20s/Mantap/main/stunnel5"
+#akbarvpnnnn="raw.githubusercontent.com/lucky20s/Mantap/main/stunnel5"
 
 # initializing var
 export DEBIAN_FRONTEND=noninteractive
@@ -40,7 +40,7 @@ locality=Indonesia
 organization=infinity
 organizationalunit=infinity
 commonname=localhost
-email=hayuk69@gmail.com
+email=xxxxx@gmail.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://${akbarvpn}/password"
